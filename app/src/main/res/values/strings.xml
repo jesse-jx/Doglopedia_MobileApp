@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Doglopedia</string>
     <string name="dog_detail">Dog Details</string>
+    <string name="more_images">More Images</string>
     <string name="favourited_dogs">Favourites</string>
     <string name="back_button">back</string>
 </resources>
